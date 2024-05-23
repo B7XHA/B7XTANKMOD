@@ -1,6 +1,11 @@
 import os
 os.system('pip install faker ')
-
+os.system('pip install Faker ')
+os.system('pip install json ')
+os.system('pip install string ')
+os.system('pip install random ')
+os.system('pip install requests ')
+os.system('clear')
 os.system('clear')
 #icone&collor
 
